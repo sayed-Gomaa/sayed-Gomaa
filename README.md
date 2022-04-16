@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sayed Gomaa</h1>
+ <h1 align="center">Hi 👋, I'm Sayed Gomaa</h1>
 <h3 align="center">A passionate Machine learning Engineering from Egypt</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayed-gomaa" alt="sayed-gomaa" /></a> </p>
 
 - 🔭 I’m currently working on [Blind Guiding App](https://github.com/sayed-Gomaa/Gradution-Project)
 
